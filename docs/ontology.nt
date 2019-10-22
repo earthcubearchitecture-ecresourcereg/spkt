@@ -1,0 +1,257 @@
+<http://cor.esipfed.org/ont/earthcube/SPKT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://cor.esipfed.org/ont/earthcube/SPKT> <http://purl.org/dc/elements/1.1/description> "The Technical Specifiations Controlled Vocabulary was created for NSF's EarthCube Program's Resource Repository.  At this point it merely lists the types of specifications used by these resources."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT> <http://purl.org/dc/elements/1.1/title> "Technical Specifications Controlled Vocabulary"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT> <http://purl.org/dc/terms/bibliographicCitation> "Duerr, R., 2019, \"Technical Specifiations Controlled Vocabulary\", ESIP Community Ontology Repository, Version 1.0.0, available at: http://cor.esipfed.org/ont/earthcube/SPKT"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT> <http://purl.org/dc/terms/license> <https://creativecommons.org/share-your-work/public-domain/cc0/> .
+<http://cor.esipfed.org/ont/earthcube/SPKT> <http://purl.org/dc/terms/license> "Ruth Duerr"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "" .
+<http://cor.esipfed.org/ont/earthcube/SPKT> <http://www.w3.org/2002/07/owl#versionInfo> "1.0.0"@en .
+# 
+# 
+# #################################################################
+# #
+# #    Annotation properties
+# #
+# #################################################################
+# 
+# 
+# http://purl.obolibrary.org/obo/IAO_0000115
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#label> "definition" .
+# 
+# http://purl.obolibrary.org/obo/IAO_0000119
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.w3.org/2000/01/rdf-schema#label> "definition source" .
+# 
+# http://purl.org/dc/elements/1.1/creator
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/elements/1.1/description
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/elements/1.1/title
+<http://purl.org/dc/elements/1.1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/bibliographicCitation
+<http://purl.org/dc/terms/bibliographicCitation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://purl.org/dc/terms/license
+<http://purl.org/dc/terms/license> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.geneontology.org/formats/oboInOwl#created_by
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.geneontology.org/formats/oboInOwl#creation_date
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.geneontology.org/formats/oboInOwl#hasDbXref
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.geneontology.org/formats/oboInOwl#hasExactSynonym
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.geneontology.org/formats/oboInOwl#hasURI
+<http://www.geneontology.org/formats/oboInOwl#hasURI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Classes
+# #
+# #################################################################
+# 
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000001
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000001> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000001> <http://purl.obolibrary.org/obo/IAO_0000115> "A specification that incudes the mandatory, preferred or optional ways the components of the data are formatted."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000001> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000001> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T21:57:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000001> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: INSPIRE Data Specification on Geology, GeoCSV ‐ tabular text formatting for geoscience data, specification, Version: 2.0.4 (2015­07­21), USGS rdb text file format specification, SeaDataNet recommended data transport format for biological data, specification,  v2.1."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000001> <http://www.w3.org/2000/01/rdf-schema#label> "Data Format Convention"@en .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Axiom> .
+_:genid1 <http://www.w3.org/2002/07/owl#annotatedSource> <http://cor.esipfed.org/ont/earthcube/SPKT_0000001> .
+_:genid1 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/IAO_0000115> .
+_:genid1 <http://www.w3.org/2002/07/owl#annotatedTarget> "A specification that incudes the mandatory, preferred or optional ways the components of the data are formatted."@en .
+_:genid1 <http://purl.obolibrary.org/obo/IAO_0000119> <http://vceit.com/p/conventions.htm> .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000002
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000002> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000002> <http://purl.obolibrary.org/obo/IAO_0000115> "Specification of a generally agreed to scheme for naming things."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000002> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000002> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T22:06:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000002> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <https://www.wikidata.org/wiki/Q6961869> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000002> <http://www.w3.org/2000/01/rdf-schema#comment> "Conventions differ in their intents, which may include to:\n\n - Allow useful information to be deduced from the names based on regularities. \n    - For instance, in Manhattan, streets are consecutively numbered; with East-West streets called \"Streets\" and North-South streets called \"Avenues\".\n - Show relationships\n - Ensure that each name is unique within the same scope"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000002> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: COARDS NetCDF Conventions specification"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000002> <http://www.w3.org/2000/01/rdf-schema#label> "Naming Convention"@en .
+_:genid2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Axiom> .
+_:genid2 <http://www.w3.org/2002/07/owl#annotatedSource> <http://cor.esipfed.org/ont/earthcube/SPKT_0000002> .
+_:genid2 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/IAO_0000115> .
+_:genid2 <http://www.w3.org/2002/07/owl#annotatedTarget> "Specification of a generally agreed to scheme for naming things."@en .
+_:genid2 <http://purl.obolibrary.org/obo/IAO_0000119> <https://en.wikipedia.org/wiki/Naming_convention> .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000003
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000003> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000003> <http://purl.obolibrary.org/obo/IAO_0000115> "Specification of the conventions to be used when implementing a given web service."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000003> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000003> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T22:43:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000003> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: GeoWS Web Service Template specification, FDSN Web Service Specification Commonalities v1.2, fdsnws-station specification v1.1, SPARQL 1.1 Protocol specification"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000003> <http://www.w3.org/2000/01/rdf-schema#label> "Web Service Convention"@en .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000004
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000004> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000004> <http://purl.obolibrary.org/obo/IAO_0000115> "A specification of an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000004> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000004> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T22:52:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000004> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <https://www.wikidata.org/wiki/Q1172480> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000004> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: ORE Specification - Abstract Data Model v1.0, Model for Tabular Data and Metadata on the Web, W3C Recommendation 2015-12-17, URI Template specification,"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000004> <http://www.w3.org/2000/01/rdf-schema#label> "Data Model"@en .
+_:genid3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Axiom> .
+_:genid3 <http://www.w3.org/2002/07/owl#annotatedSource> <http://cor.esipfed.org/ont/earthcube/SPKT_0000004> .
+_:genid3 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/IAO_0000115> .
+_:genid3 <http://www.w3.org/2002/07/owl#annotatedTarget> "A specification of an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities."@en .
+_:genid3 <http://purl.obolibrary.org/obo/IAO_0000119> <https://en.wikipedia.org/wiki/Data_model> .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000005
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000005> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000005> <http://purl.obolibrary.org/obo/IAO_0000115> "A specification based on a data model that extends the requirements of that data model for some purpose and domain."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000005> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000005> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T22:55:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000005> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: Hydroshare resource specification,"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000005> <http://www.w3.org/2000/01/rdf-schema#label> "Data Model Convention"@en .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000006
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000006> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000006> <http://purl.obolibrary.org/obo/IAO_0000115> "A specification based on a metadata standard that extends the requirements of that standard for some purpose and/or domain."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000006> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000006> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T23:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000006> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Metadata Profile"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000006> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: IOOS metadata profile specification"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000006> <http://www.w3.org/2000/01/rdf-schema#label> "Metadata Convention"@en .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000007
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000007> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000007> <http://purl.obolibrary.org/obo/IAO_0000115> "A specification containing a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000007> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000007> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T23:09:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000007> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: OGC KML Specification 2.3, Python, R"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000007> <http://www.w3.org/2000/01/rdf-schema#label> "Programming Language"@en .
+_:genid4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Axiom> .
+_:genid4 <http://www.w3.org/2002/07/owl#annotatedSource> <http://cor.esipfed.org/ont/earthcube/SPKT_0000007> .
+_:genid4 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/IAO_0000115> .
+_:genid4 <http://www.w3.org/2002/07/owl#annotatedTarget> "A specification containing a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks."@en .
+_:genid4 <http://purl.obolibrary.org/obo/IAO_0000119> <https://www.webopedia.com/TERM/P/programming_language.html> .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000008
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000008> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000008> <http://purl.obolibrary.org/obo/IAO_0000115> "Specification for converting computer data from one format to another"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000008> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000008> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T23:20:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000008> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <https://www.wikidata.org/wiki/Q1783551> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000008> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: Generating JSON from Tabular Data on the Web, W3C Recommendation 2015-12-17"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000008> <http://www.w3.org/2000/01/rdf-schema#label> "Data Conversion"@en .
+_:genid5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Axiom> .
+_:genid5 <http://www.w3.org/2002/07/owl#annotatedSource> <http://cor.esipfed.org/ont/earthcube/SPKT_0000008> .
+_:genid5 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/IAO_0000115> .
+_:genid5 <http://www.w3.org/2002/07/owl#annotatedTarget> "Specification for converting computer data from one format to another"@en .
+_:genid5 <http://purl.obolibrary.org/obo/IAO_0000119> <https://en.wikipedia.org/wiki/Data_conversion> .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000009
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000009> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000009> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000009> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T23:28:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000009> <http://www.w3.org/2000/01/rdf-schema#label> "Metadata Vocabulary"@en .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000010
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000010> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000010> <http://purl.obolibrary.org/obo/IAO_0000115> "Specification for how one or many files should be packaged for some purpose such as transfer or archival."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000010> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000010> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T23:31:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000010> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: BagIt File Packaging Format, specification, V1.0, zip, tar"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000010> <http://www.w3.org/2000/01/rdf-schema#label> "File Packaging Convention"@en .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000011
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000011> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000011> <http://purl.obolibrary.org/obo/IAO_0000115> "Specification of the interfaces of a product or system that allows it to work with other products or systems in either implementation or access, without any restrictions."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000011> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000011> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T23:38:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000011> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: Content Management Interoperability Services (CMIS) specification,  v1.1"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000011> <http://www.w3.org/2000/01/rdf-schema#label> "Interoperability Specification"@en .
+_:genid6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Axiom> .
+_:genid6 <http://www.w3.org/2002/07/owl#annotatedSource> <http://cor.esipfed.org/ont/earthcube/SPKT_0000011> .
+_:genid6 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/IAO_0000115> .
+_:genid6 <http://www.w3.org/2002/07/owl#annotatedTarget> "Specification of the interfaces of a product or system that allows it to work with other products or systems in either implementation or access, without any restrictions."@en .
+_:genid6 <http://purl.obolibrary.org/obo/IAO_0000115> <https://en.wikipedia.org/wiki/Interoperability> .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000012
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000012> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000012> <http://purl.obolibrary.org/obo/IAO_0000115> "Specification of an interface or communication protocol between a client and a server intended to simplify the building of client-side software."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000012> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000012> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T23:46:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000012> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <https://www.wikidata.org/wiki/Q165194> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000012> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Application Programming Interface" .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000012> <http://www.w3.org/2000/01/rdf-schema#comment> "Examples: SeedLink Protocol specification,"@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000012> <http://www.w3.org/2000/01/rdf-schema#label> "API"@en .
+_:genid7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Axiom> .
+_:genid7 <http://www.w3.org/2002/07/owl#annotatedSource> <http://cor.esipfed.org/ont/earthcube/SPKT_0000012> .
+_:genid7 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/IAO_0000115> .
+_:genid7 <http://www.w3.org/2002/07/owl#annotatedTarget> "Specification of an interface or communication protocol between a client and a server intended to simplify the building of client-side software."@en .
+_:genid7 <http://purl.obolibrary.org/obo/IAO_0000119> <https://en.wikipedia.org/wiki/Application_programming_interface> .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000013
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000013> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000013> <http://purl.obolibrary.org/obo/IAO_0000115> "Specification of a type of process which can be used in the development of many applications."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000013> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000013> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-21T23:51:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000013> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <https://www.wikidata.org/wiki/Q27610560> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000013> <http://www.w3.org/2000/01/rdf-schema#label> "Process Model"@en .
+_:genid8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Axiom> .
+_:genid8 <http://www.w3.org/2002/07/owl#annotatedSource> <http://cor.esipfed.org/ont/earthcube/SPKT_0000013> .
+_:genid8 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/IAO_0000115> .
+_:genid8 <http://www.w3.org/2002/07/owl#annotatedTarget> "Specification of a type of process which can be used in the development of many applications."@en .
+_:genid8 <http://purl.obolibrary.org/obo/IAO_0000119> <https://en.wikipedia.org/wiki/Process_modeling> .
+# 
+# http://cor.esipfed.org/ont/earthcube/SPKT_0000014
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000014> <http://purl.obolibrary.org/obo/IAO_0000115> "A type of technical standard that often refers to a set of documented requirements to be satisfied by a material, design, product, or service."@en .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000014> <http://www.geneontology.org/formats/oboInOwl#created_by> <http://orcid.org/0000-0003-4808-4736> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000014> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2019-10-22T00:05:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000014> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <https://www.wikidata.org/wiki/Q2101564> .
+<http://cor.esipfed.org/ont/earthcube/SPKT_0000014> <http://www.w3.org/2000/01/rdf-schema#label> "Specification Types"@en .
+_:genid9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Axiom> .
+_:genid9 <http://www.w3.org/2002/07/owl#annotatedSource> <http://cor.esipfed.org/ont/earthcube/SPKT_0000014> .
+_:genid9 <http://www.w3.org/2002/07/owl#annotatedProperty> <http://purl.obolibrary.org/obo/IAO_0000115> .
+_:genid9 <http://www.w3.org/2002/07/owl#annotatedTarget> "A type of technical standard that often refers to a set of documented requirements to be satisfied by a material, design, product, or service."@en .
+_:genid9 <http://purl.obolibrary.org/obo/IAO_0000119> <https://en.wikipedia.org/wiki/Specification_(technical_standard)> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Annotations
+# #
+# #################################################################
+# 
+# 
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> _:genid10 .
+_:genid10 <http://www.geneontology.org/formats/oboInOwl#hasURI> "http://purl.org/obo/owl/oboFormat#oboFormat_xref"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+_:genid10 <http://www.w3.org/2000/01/rdf-schema#label> "oboFormat:xref" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#label> "has_dbxref"@en .
+# 
+# Generated by the OWL API (version 5.1.9) https://github.com/owlcs/owlapi/
